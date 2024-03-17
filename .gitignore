@@ -215,3 +215,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Runtime data
+pids
+*.pid
+*.seed
